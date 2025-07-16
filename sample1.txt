@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+test-branch3
+=======
 test1
+>>>>>>> origin/master
